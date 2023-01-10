@@ -72,7 +72,7 @@ main{
     transform: translate(-57%, 0);
     display: flex;
     gap: 20px;
-    cursor:pointer;
+    
 }
 .btn{
     width: 50%;
@@ -82,6 +82,7 @@ main{
     color: #FFf;
     background-color: #444;
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
+    cursor: pointer;
     
 }
 .btn:active{
